@@ -1,0 +1,16 @@
+/build/*
+/dist/*
+Bin
+obj
+*.user
+*.suo
+*_ReSharper*
+/lib/Ninject2.2/*.zip
+/lib/Ninject2.2/*/**
+/lib/Prism4/*.zip
+/lib/Prism4/*/**
+/lib/CommonServiceLocator.1.0/*.zip
+/lib/CommonServiceLocator.1.0/*/**
+*ReSharper*
+*.docstates
+*.gpState
