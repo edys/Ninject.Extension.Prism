@@ -1,6 +1,6 @@
-Prism.NinjectExtension 
+Ninject.Extension.Prism
 
-This extension is for use with the Microsoft.Practices.Prism library.
+This extension is for use with the Ninject and Microsoft.Practices.Prism library.
 
 The current version requires the following:
  - Microsoft.Practices.Prism 4.0
